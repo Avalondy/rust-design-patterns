@@ -1,0 +1,2 @@
+Damage: 12
+Range: 18.3

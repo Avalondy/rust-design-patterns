@@ -1,0 +1,2 @@
+Position: [50, 50]
+Health: 100
